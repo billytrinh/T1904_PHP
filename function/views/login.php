@@ -11,7 +11,7 @@
 <body>
     <div class="container">
         <div class="col-xs-6">
-            <form method="post" action="postLogin.php">
+            <form method="post" action="?route=listing">
                 <div class="form-group">
                     <input class="form-control" type="text" name="username" placeholder="Username"/>
                 </div>
